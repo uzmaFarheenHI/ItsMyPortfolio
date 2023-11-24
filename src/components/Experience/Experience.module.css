@@ -41,8 +41,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 130px;
-  height: 130px;
+  width: 120px;
+  height: 132px;
   box-shadow: 0 16px 14px 0 #000511;
 }
 
@@ -51,9 +51,9 @@
 }
 
 .skill p {
-  font-size: 25px;
+  font-size: 20px;
   font-family: var(--font-roboto);
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .history {
@@ -92,7 +92,7 @@
 }
 
 .historyItemDetails p {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 300;
 }
 

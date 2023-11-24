@@ -11,8 +11,8 @@
 }
 
 .title {
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 35px;
+  font-weight: 500;
   text-decoration: none;
   color: turquoise;
   box-shadow: 0 16px 14px 0 #000511;
@@ -29,7 +29,7 @@
 }
 
 .menuItems a {
-  font-size: 35px;
+  font-size: 25px;
   color: turquoise;
   text-decoration: none;
   box-shadow: 0 16px 14px 0 #000511;

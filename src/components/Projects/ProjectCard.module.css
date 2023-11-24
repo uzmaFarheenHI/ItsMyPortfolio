@@ -15,14 +15,14 @@
 }
 
 .title {
-  font-size: 28px;
-  font-weight: 600;
+  font-size: 25px;
+  font-weight: 500;
   color:lightseagreen;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 200;
   color: rgb(102, 174, 247);
 }
@@ -38,8 +38,8 @@
 }
 
 .skill {
-  font-size: 25px;
-    font-weight: 300;
+  font-size: 20px;
+    font-weight: 200;
     border-radius: 100px;
     background: var(--color-dark);
     padding: 4px 24px;
@@ -60,8 +60,8 @@
 .link {
   text-decoration: none;
   color: var(--color-text);
-  font-size: 28px;
-  font-weight: 400;
+  font-size: 25px;
+  font-weight: 300;
   border-radius: 50px;
   background: var(--color-primary);
   background-color: var(--color-primary);

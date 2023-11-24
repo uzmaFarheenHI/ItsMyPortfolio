@@ -7,7 +7,7 @@
   background: linear-gradient(180deg, #0f0f0f 0%, #16294a 100%);
   box-shadow: 0 16px 14px 0 #000511;
   padding: 18px 24px;
-  max-width: 350px;
+  max-width: 300px;
 }
 
 .image {
@@ -66,7 +66,7 @@
   background: var(--color-primary);
   background-color: var(--color-primary);
   color: turquoise;
-  padding: 8px 25px;
+  padding: 8px 20px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 

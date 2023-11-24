@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "TCS",
+    "startDate": "Nov, 2021",
+    "endDate": "Present",
+    "experiences": ["Working on Tataneu Web App", "As the UI developer I assumed complete ownership of the User Interface (UI) and effectively managed the UI thread in collaboration,with 3 developers to ensure a superior user experience for Tataneu users","Architected a web application in ReactJS Utilized Redux for state management and implemented action creators, action types, and reducers to facilitate structured and predictable data flow within the application","Demonstrated proficiency in error handling and recovery, ensuring robust performance and smooth user experience by managing network errors and handling API-specific errors gracefully","Successfully optimized a React.js web application by implementing React lazy loading techniques, significantly improving page load times and overall user experience","Developed and maintained Unit Test Cases using Jest and React Testing Library, resulting in a 30% reduction in production defects.","Collaborated with developers to enhance test coverage of critical components by 80%, facilitating early issue identification and resolution","Efficiently delivered and deployed a web application, reaching a vast audience of 120 million Users."],
+    "imageSrc": "Images/tcslogo2.jpg"
+  }
+]

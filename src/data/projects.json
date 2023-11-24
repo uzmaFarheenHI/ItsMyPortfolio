@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Project C",
+    "imageSrc": "Images/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "HTML", "Css","Redux"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "Images/project.png",
+    "description": "This is a project made to learn react  by building an Password Generator.",
+    "skills": ["React","HTML","CSS"],
+    "demo": "https://uzmapasswordgenerator.netlify.app/",
+    "source": "https://github.com/uzmaFarheenHI/PasswordGenerator"
+  },
+  {
+    "title": "Tic Toc Teo",
+    "imageSrc": "Images/project.png",
+    "description": "This is a project made to learn react by making game tic toc teo.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://tic-toc-teo.netlify.app/",
+    "source": "https://github.com/uzmaFarheenHI/Tic-toc-teo"
+  }
+ 
+]

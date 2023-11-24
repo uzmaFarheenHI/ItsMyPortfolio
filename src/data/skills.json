@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "Images/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "Images/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "Images/react.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "Images/node.png"
+  },
+  {
+     "title":"Redux",
+     "imageSrc":"Images/redux.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "Images/figma.png"
+  }
+]

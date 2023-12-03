@@ -1,7 +1,7 @@
 [
   {
     "title": "E-Commerce Website",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "Images/project.png",
     "description": "Developed fully functional e-commerce website as a personal project showcasing proficiency in modern frontend technologies and best practices",
     "skills": [ "React.js", "Context API", "TypeScript" , "React Hooks" , "React-Router"
     ],

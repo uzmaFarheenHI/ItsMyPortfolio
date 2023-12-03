@@ -1,11 +1,12 @@
 [
   {
-    "title": "Project C",
-    "imageSrc": "Images/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "HTML", "Css","Redux"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "Developed fully functional e-commerce website as a personal project showcasing proficiency in modern frontend technologies and best practices",
+    "skills": [ "React.js", "Context API", "TypeScript" , "React Hooks" , "React-Router"
+    ],
+    "demo": "https://uzma-ecommerce.netlify.app/",
+    "source": "https://github.com/uzmaFarheenHI/e-commerce-webapp"
   },
   {
     "title": "Password Generator",

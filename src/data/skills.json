@@ -20,6 +20,14 @@
      "imageSrc":"Images/redux.png"
   },
   {
+    "title":"Jest",
+    "imageSrc":"Images/jest.webp"
+ },
+ {
+  "title":"TS",
+  "imageSrc":"Images/typescriptlogo.png"
+},
+  {
     "title": "Figma",
     "imageSrc": "Images/figma.png"
   }

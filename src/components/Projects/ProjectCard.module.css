@@ -15,7 +15,7 @@
 }
 
 .title {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 500;
   color:lightseagreen;
 }
@@ -42,7 +42,7 @@
     font-weight: 200;
     border-radius: 100px;
     background: var(--color-dark);
-    padding: 4px 24px;
+    padding: 4px 14px;
     border: 1px solid;
 }
 
@@ -60,7 +60,7 @@
 .link {
   text-decoration: none;
   color: var(--color-text);
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 200;
   border-radius: 50px;
   background: var(--color-primary);
